@@ -15,3 +15,4 @@ Enter you coin ticker to see price info
 |#(1)         \===/            (1)#|
 |##=========ONE DOLLAR===========##|
  -->
+![price](coinsearch.gif)
