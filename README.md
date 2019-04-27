@@ -5,7 +5,9 @@ Enter you coin ticker to see price info
 
 ### `moar todo`
 
-#### `___________________________________
+#### ``
+<!-- language: lang-none -->
+
 |#######====================#######|
 |#(1)*UNITED TOKENS OF CRYPTO *(1)#|
 |#**          /===\   ********  **#|
@@ -13,4 +15,4 @@ Enter you coin ticker to see price info
 |#*  ******  |  $  |    O N E    *#|
 |#(1)         \===/            (1)#|
 |##=========ONE DOLLAR===========##|
-------------------------------------`
+
