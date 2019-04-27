@@ -3,10 +3,6 @@
 
 Enter you coin ticker to see price info
 
-### `moar todo`
-
-#### ``
-
 <!-- |#######====================#######|
 |#(1)*UNITED TOKENS OF CRYPTO *(1)#|
 |#**          /===\   ********  **#|
@@ -16,3 +12,7 @@ Enter you coin ticker to see price info
 |##=========ONE DOLLAR===========##|
  -->
 ![price](coinsearch.gif)
+
+### `moar todo`
+* Fix API connection
+#### ``
