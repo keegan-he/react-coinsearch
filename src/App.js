@@ -37,7 +37,7 @@ class App extends Component {
           <h1 className="App-title">Coin Search</h1>
         </header>
         <div className="Form">
-
+<div className="Searchboxybox">
           <input
               placeholder="Enter your coin"
               value={this.state.coin}
@@ -45,7 +45,7 @@ class App extends Component {
             />
           <h2>Coin: {this.state.coin || ''}</h2>
           <button onClick={() => this.onSubmit()}>Submit</button>
-
+          </div>
 
           {
             this.state.data.map(item => (
